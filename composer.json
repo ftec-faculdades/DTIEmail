@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-email",
+    "description": "Módulo do gerenciamento de email em ZF 2 da Ftec | DTI",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+		"dti",
+		"email"	
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIEmail",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIEmail": "src/"
+        }
+	}
+}
